@@ -123,34 +123,11 @@ Enter FTP password (blank for anonymous): ****
 
 **🧑‍💻 Shiboshree Roy**
 Full-Stack Developer | Python, Rails, Systems & Network Tools
-📫 Email: [shiboshree@example.com](mailto:shiboshree@example.com)
-🌐 [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+📫 Email: [shiboshreeroycse@gmail.com](mailto:shiboshreeroycse@gmail.com)
+🌐 [GitHub](https://github.com/shiboshreeroy) | [LinkedIn](https://linkedin.com/in/shiboshree-roy)
 
 ---
 
 ## 📝 License
 
 Licensed under the **MIT License**.
-
----
-
-## 📌 Icons Legend
-
-* 🔌 TCP/FTP connectivity
-* 🗂️ Folder structure
-* 🧠 Logic explanation
-* ⚙️ How to use
-* 🛠️ Development tools & improvements
-
-```
-
----
-
-Would you like me to:
-
-- Embed this `banner` directly into `main.py` as part of the startup display?
-- Create a GitHub repository template zip you can upload?
-- Generate a `.pyz` or `.exe` CLI package?
-
-Let me know how you'd like to distribute it next!
-```
